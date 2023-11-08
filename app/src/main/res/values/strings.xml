@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">first_project_2</string>
+    <string-array name ="name">
+        <item>Ваня</item>
+        <item>Петя</item>
+        <item>Коля</item>
+        <item>Маша</item>
+
+    </string-array>
+
+    <integer-array name="age">
+        <item>16</item>
+        <item>24</item>
+        <item>37</item>
+        <item>43</item>
+    </integer-array>>
+
+    <string-array name="contents">
+        <item>"1."</item>
+        <item>"2."</item>
+        <item>"3."</item>
+    </string-array>
+
+
+</resources>
